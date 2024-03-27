@@ -20,4 +20,6 @@
     ```git init``` initaliser un repository.
     ```rm -rf .git``` suprrimer le dossier .git
     ```git status``` check l'état du repo
+    ```git add *nom-de-fichier*``` ajouter fichier
+    ```git commit -m "commentaire"```
     
