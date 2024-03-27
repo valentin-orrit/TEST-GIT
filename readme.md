@@ -1,8 +1,8 @@
 
 Terminal
-    - `man` permet de lancer le manuel des fonctions.
-    - `pwd` affiche le dossier dans lequel tu es actuellement.
-    `ls` est une commande qui affiche les fichiers et dossiers contenus dans mon dossier actuel.
++ `man` permet de lancer le manuel des fonctions.
++ `pwd` affiche le dossier dans lequel tu es actuellement.
++ `ls` est une commande qui affiche les fichiers et dossiers contenus dans mon dossier actuel.
     *La notion de géographie est fondamentale : le terminal n'arrivera pas à ouvrir les fichiers s'il ne se trouve pas dans le bon dossier.*
     `mkdir` permet de créer un dossier.
     `cd` permet de changer de dossier.
