@@ -5,7 +5,7 @@
 + `ls` est une commande qui affiche les fichiers et dossiers contenus dans mon dossier actuel.
 + `mkdir` permet de créer un dossier.
 + `cd` permet de changer de dossier.
-+ `touch` permet de créer un fichier.
++ `touch` permet de créer un fichier. // `ni` dans VSCode
 + `cp` permet de copier un fichier.
 + `mv` permet de déplacer un fichier ou un dossier.
 + `rm` permet de supprimer un fichier.
