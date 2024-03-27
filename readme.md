@@ -25,7 +25,8 @@
 + `git reset --hard` retour arrière commit précédent
 
 # github
-+ `git remote add origin https://github.com/username/file.git`
++ `git remote add origin https://github.com/username/file.git` ajouter origine
++ `git remove rm origin` suppr origine
 + `git remote -v` check remote
 + `git branch -m main` nouvelle branche
 + `git push origin main` push branche *main* vers remote *origin*
