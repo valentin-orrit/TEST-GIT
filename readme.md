@@ -30,3 +30,4 @@
 + `git remote -v` check remote
 + `git branch -m main` nouvelle branche
 + `git push origin main` push branche *main* vers remote *origin*
++ and more...
