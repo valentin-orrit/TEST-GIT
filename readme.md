@@ -27,5 +27,5 @@
 # github
 + `git remote add origin https://github.com/username/file.git`
 + `git remote -v` check remote
-+ `git branch -m main`
-+ `git push origin main` 
++ `git branch -m main` nouvelle branche
++ `git push origin main` push branche *main* vers remote *origin*
