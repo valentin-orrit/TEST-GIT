@@ -1,8 +1,5 @@
 
 # Terminal
-
-    Pour lancer le terminal sur Linux : ```CTRL + ALT + T``` ; pour le lancer sur macOS : ```CMD + SPACE```, puis écrire Terminal (ou iTerm) et presser la touche Enter ; pour Windows il te faudra trouver un subterfuge : le Git Bash est la solution parfaite pour les débutants.
-
     ```man``` permet de lancer le manuel des fonctions.
     ```pwd``` affiche le dossier dans lequel tu es actuellement.
     ```ls``` est une commande qui affiche les fichiers et dossiers contenus dans mon dossier actuel.
@@ -22,4 +19,13 @@
     ```git status``` check l'état du repo
     ```git add *nom-de-fichier*``` ajouter fichier
     ```git commit -m "commentaire"```
-    sdfsdfsf
+    ```git log``` historique des versions
+    ```git checkout *SHA*``` retour arrière à titre indicatif (*SHA*: code commit) /!\ ne fonctionne que si toutes modifs commit
+    ```git checkout master``` retour version actuelle
+    ```git reset --hard *SHA*``` retour arrière 
+    ```git reset --hard``` retour arrière commit précédent
+
+# github
+    ```git remote add origin https://github.com/username/file.git```
+    ```git remote -v``` check remote
+    ```git push origin main``` 
