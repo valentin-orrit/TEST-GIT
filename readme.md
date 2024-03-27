@@ -1,5 +1,5 @@
 
-# Terminal
+Terminal
     `man` permet de lancer le manuel des fonctions.
     `pwd` affiche le dossier dans lequel tu es actuellement.
     `ls` est une commande qui affiche les fichiers et dossiers contenus dans mon dossier actuel.
