@@ -16,12 +16,12 @@
 + `git init` initaliser un repository.
 + `rm -rf .git` suprrimer le dossier .git
 + `git status` check l'état du repo
-+ `git add *nom-de-fichier*` ajouter fichier
++ `git add nom-de-fichier` ajouter fichier
 + `git commit -m "commentaire"`
 + `git log` historique des versions
-+ `git checkout *SHA*` retour arrière à titre indicatif (*SHA*: code commit) /!\ ne fonctionne que si toutes modifs commit
++ `git checkout SHA` retour arrière à titre indicatif (*SHA*: code commit) /!\ ne fonctionne que si toutes modifs commit
 + `git checkout master` retour version actuelle
-+ `git reset --hard *SHA*` retour arrière 
++ `git reset --hard SHA` retour arrière 
 + `git reset --hard` retour arrière commit précédent
 
 # github
