@@ -17,8 +17,10 @@
 + `rm -rf .git` suprrimer le dossier .git
 + `git status` check l'état du repo
 + `git add nom-de-fichier` ajouter fichier
++ `git add --all` ajouter tous les fichiers
 + `git commit -m "commentaire"`
 + `git log` historique des versions
++ `git checkout nom-de-branche` se positionner sur la branche
 + `git checkout SHA` retour arrière à titre indicatif (*SHA*: code commit) /!\ ne fonctionne que si toutes modifs commit
 + `git checkout master` retour version actuelle
 + `git reset --hard SHA` retour arrière 
@@ -30,4 +32,6 @@
 + `git remote -v` check remote
 + `git branch -m main` nouvelle branche
 + `git push origin main` push branche *main* vers remote *origin*
++ `git merge nom-de-branche` fusionner branche actuelle avec branche nommée
++ `git rebase nom-de-branche` fusionner branche nommée SUR branche actuelle???
 + and more...
