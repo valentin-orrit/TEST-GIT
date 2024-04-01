@@ -16,6 +16,7 @@
 + `git init` initaliser un repository.
 + `rm -rf .git` suprrimer le dossier .git
 + `git status` check l'état du repo
++ `git diff` return les ligne différentes entre le fichier modifié et le précédent commit
 + `git add nom-de-fichier` ajouter fichier
 + `git add --all` ajouter tous les fichiers
 + `git commit -m "commentaire"`
