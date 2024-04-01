@@ -35,4 +35,3 @@
 + `git push origin main` push branche *main* vers remote *origin*
 + `git merge nom-de-branche` fusionner branche actuelle avec branche nommée
 + `git rebase nom-de-branche` fusionner branche nommée SUR branche actuelle???
-+ and more...
