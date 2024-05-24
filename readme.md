@@ -22,6 +22,7 @@
 + `git branch` : affiche toutes les branches de ton repo Git, puis t'indique sur laquelle tu es actuellement
 + `git branch nom_de_ta_feature` : créé une branche portant pour nom "*nom_de_ta_feature*"
 + `git checkout nom_de_ta_branche` : se positionne sur la branche qui s'appelle "*nom_de_ta_branche*"
++ `git branch -d nom_de_ta_branche` : supprimer branche
 
 ## Merge branch
 + `git checkout master` : tu te remets sur la branche master en vue de la mettre à jour
